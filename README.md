@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://www.instagram.com/rolex.xew/) related to <b>Windows Forms, Java, Javascript.</b>
+- 💬 Ask me anything [here](https://www.instagram.com/kkostya_a/) related to <b>Windows Forms, Java, Javascript.</b>
 - ⚡ Fun fact: I ❤️ & 🏍️
 - My Dicord kostya.#0023
 
@@ -32,7 +32,7 @@ This is the place where I opensource stuff and break things 🤣
 <br />
 
 ### 📊 GitHub Stats:
-![LeFearr's github stats](https://github-readme-stats.vercel.app/api?username=rolexjs&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
+![Kostya github stats](https://github-readme-stats.vercel.app/api?username=rolexjs&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kostyajs&layout=compact)
 
