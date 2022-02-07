@@ -46,4 +46,4 @@ This is the place where I opensource stuff and break things 🤣
 
 
 [instagram]: https://www.instagram.com/kkostya_a/
-[github]: https://github.com/kostyajs
+[github]: https://github.com/kostyaaaaaa
