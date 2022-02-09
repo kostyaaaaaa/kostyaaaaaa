@@ -34,7 +34,7 @@ This is the place where I opensource stuff and break things 🤣
 ### 📊 GitHub Stats:
 ![Kostya github stats](https://github-readme-stats.vercel.app/api?username=kostyaaaaaa&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kostyajs&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaaaaaa&layout=compact)
 
 
 [instagram]: https://www.instagram.com/kkostya_a/
