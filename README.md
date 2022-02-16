@@ -1,5 +1,4 @@
 ### Hi there, I'm a Student My Name is Kostya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/130350208608370689?hideDiscrim=true)](https://discord.com/users/130350208608370689)
 <!--
 **lefearr/lefearr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
