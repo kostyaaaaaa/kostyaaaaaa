@@ -7,9 +7,9 @@ This is the place where I opensource stuff and break things 🤣
 - 🔭 I’m currently working on something really cool 😉
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://www.instagram.com/kkostya_a/) related to <b>Windows Forms, Java, Javascript.</b>
+- 💬 Ask me anything [here](https://www.instagram.com/kostyaneww/) related to <b>Windows Forms, Java, Javascript.</b>
 - ⚡ Fun fact: I ❤️ & 🏍️
-- My Dicord kostya.#0023
+- My Dicord kostya#0404
 
 ### Connect with me:
 
@@ -37,10 +37,3 @@ This is the place where I opensource stuff and break things 🤣
 
 [instagram]: https://www.instagram.com/kkostya_a/
 [github]: https://github.com/kostyaaaaaa
-
-const axios = require('axios').default;
-setInterval(async() => {
-    await axios.get("https://github.com/kostyaaaaaa").then(x => {
-        console.log(`istek başarılı bir şekilde gitti.`);
-    }).catch(err => console.log("time out yedi"));
-}, 750); //süreyi internetinizin kalitesine göre arttırabilir ya da azaltabilirsiniz ama en ideali 750ms (Eğer internetiniz yavaşsa 1000-1500ms(1-1.5saniye) arasına çekebilirsiniz. 
