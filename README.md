@@ -1,4 +1,4 @@
-### Hi there, I'm a Student My Name is Kostya <img src="(https://tr.pinterest.com/pin/655344183271951236/)" width="500px">
+### Hi there, I'm a Student My Name is Kostya <img src="https://cdn.discordapp.com/attachments/904305405390360636/986293636130025522/f1673422357f26d72ff2473ff68514d1.png" width="500px">
 <!--
 **lefearr/lefearr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
