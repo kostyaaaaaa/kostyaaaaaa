@@ -9,7 +9,7 @@ This is the place where I opensource stuff and break things 🤣
 - 👯 I’m looking to collaborate on more open source projects.
 - 💬 Ask me anything [here](https://www.instagram.com/kostyaneww/) related to <b>Windows Forms, Java, Javascript.</b>
 - ⚡ Fun fact: I ❤️ & 🏍️
-- My Dicord kostya#0404
+- My Dicord Kostya#1987
 
 ### Connect with me:
 
