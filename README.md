@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;&nbsp; 
 </p>
 
-## 🐉 Discord Account
+ 🐉 Discord Account
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/130350208608370689?hideDiscrim=true)](https://discord.com/users/130350208608370689)
 
 ## 🍷 GitHub Stats
