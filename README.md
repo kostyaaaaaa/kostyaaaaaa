@@ -1,5 +1,15 @@
+<p align="center">
+    <a href="https://kostyaaaaa.github.io">
+        <img
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+kostya+🌐"
+            alt="kostya Official"
+        />
+    </a>
+</p>
+
+- Tekrardan selam dostlar
 - Bot işlerine devam etmeye karar verdim.
-- yardım veya soru için `kostya#0001`
+- yardım veya soru için `null#4000`
 
 
 
