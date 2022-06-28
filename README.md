@@ -1,26 +1,30 @@
-Hi there, I'm a Student My Name is Kostya<!--
-**lefearr/lefearr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-This is the place where I opensource stuff and break things 🤣
-
-- 🔭 I’m currently working on something really cool 😉
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on more open source projects.
-- 💬 Ask me anything [here](https://www.instagram.com/kostyaneww/) related to <b>Windows Forms, Java, Javascript.</b>
-- ⚡ Fun fact: I ❤️ & 🏍️
-- My Dicord Kostya#1987
-<img src="https://komarev.com/ghpvc/?username=kostyaaaaa&label=Ziyaretçi%20Sayısı&color=552b75" alt="kostyaaaaa" />
-
-### Connect with me:
-
-
-[<img align="left" alt="lefearr | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="lefearr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[instagram]: https://www.instagram.com/kostii.12/
-[github]: https://github.com/kostyaaaaaa
+- Bot işlerine devam etmeye karar verdim.
+- yardım veya soru için `kostya#0001`
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/130350208608370689)](https://discord.com/users/130350208608370689)
+<h3 align="center">🔥 Cool people </h3>
+<p align='center'>
+<img src="https://komarev.com/ghpvc/?username=kostyaaaaa&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="kostyaaaaa"/>
+</p>
+<h3 align="center">🌟 Social media </h3>
+<p align='center'>
+<a href="https://discord.gg/codeus">
+<img src= "https://img.shields.io/badge/YouTube-ff0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white"/> </a>&nbsp;&nbsp;
+<a href="https://github.com/kostyaaaaa">
+<img src= "https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white"/> </a>&nbsp;&nbsp;
+<a href="https://instagram.com/kostii.12">
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> </a>&nbsp;&nbsp; 
+</p>
+
+## 🐉 Discord Account
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/130350208608370689?hideDiscrim=true)](https://discord.com/users/130350208608370689)
+
+## 🍷 GitHub Stats
+<p align = 'center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=kostyaaaaa&theme=gotham&hide_border=true'>
+</p>
+<p align = 'center'>
+    <img src='https://github-readme-stats.vercel.app/api?username=kostyaaaaa&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaaaaa&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/>
+</p>
