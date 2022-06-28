@@ -14,8 +14,6 @@ This is the place where I opensource stuff and break things 🤣
 
 [<img align="left" alt="lefearr | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="lefearr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
- 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/130350208608370689?hideDiscrim=true)](https://discord.com/users/130350208608370689)
 
 ### 📊 GitHub Stats:
 ![Kostya github stats](https://github-readme-stats.vercel.app/api?username=kostyaaaaaa&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
@@ -24,5 +22,6 @@ This is the place where I opensource stuff and break things 🤣
 
 
 [instagram]: https://www.instagram.com/kostii.12/
-[github]: https://github.com/kostyaaaaaa3
+[github]: https://github.com/kostyaaaaaa
 
+[<[Discord Presence](https://lanyard-profile-readme.vercel.app/api/130350208608370689?hideDiscrim=true)](https://discord.com/users/130350208608370689)
