@@ -1,13 +1,3 @@
-<p align="center">
-    <a href="https://kostyaaaaa.github.io">
-        <img
-              src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+kostya+🌐"
-              alt="kostya Official"
-        />
-    </a>
-</p>
-
-
 <h3 align="center">🔥 Cool people </h3>
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=kostyaaaaa&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="kostyaaaaa"/>
