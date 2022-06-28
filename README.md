@@ -23,5 +23,4 @@ This is the place where I opensource stuff and break things 🤣
 
 
 
-## 🐉 Discord Account
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/130350208608370689?hideDiscrim=true)](https://discord.com/users/130350208608370689)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:130350208608370689)](https://discord.com/users/:130350208608370689)
