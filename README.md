@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/904305405390360636/986293636130025522/f1673422357f26d72ff2473ff68514d1.png" width="300px">
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/130350208608370689?hideDiscrim=true(https://discord.com/users/130350208608370689130350208608370689)
 Hi there, I'm a Student My Name is Kostya<!--
 **lefearr/lefearr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -35,5 +35,5 @@ This is the place where I opensource stuff and break things 🤣
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaaaaaa&layout=compact)
 
 
-[instagram]: https://www.instagram.com/kkostya_a/
+[instagram]: https://www.instagram.com/kostii.12/
 [github]: https://github.com/kostyaaaaaa
