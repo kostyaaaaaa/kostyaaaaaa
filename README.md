@@ -7,11 +7,6 @@
     </a>
 </p>
 
-- Tekrardan selam dostlar
-- Bot işlerine devam etmeye karar verdim.
-- yardım veya soru için `null#4000`
-
-
 
 <h3 align="center">🔥 Cool people </h3>
 <p align='center'>
