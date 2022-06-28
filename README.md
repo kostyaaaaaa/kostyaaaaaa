@@ -17,8 +17,6 @@ This is the place where I opensource stuff and break things 🤣
 [<img align="left" alt="lefearr | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="lefearr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kostyaaaaaa&layout=compact)
-
 
 [instagram]: https://www.instagram.com/kostii.12/
 [github]: https://github.com/kostyaaaaaa
