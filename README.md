@@ -14,6 +14,7 @@
 
 ## 🐉 Discord Account
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/130350208608370689?hideDiscrim=true)](https://discord.com/users/130350208608370689)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/130350208608370689?theme=dark&bg=06154a&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/130350208608370689)
 
 ## 🍷 GitHub Stats
 <p align = 'center'>
