@@ -1,6 +1,6 @@
 <h3 align="center">🔥 Cool people </h3>
 <p align='center'>
-<img src="https://komarev.com/ghpvc/?username=kostyaaaaa&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="kostyaaaaa"/>
+<img src="https://komarev.com/ghpvc/?username=kostyaaaaa&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="kostyashu"/>
 </p>
 <h3 align="center">🌟 Social media </h3>
 <p align='center'>
@@ -17,7 +17,7 @@
 
 ## 🍷 GitHub Stats
 <p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=kostyaaaaa&theme=gotham&hide_border=true'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=kostyashu&theme=gotham&hide_border=true'>
 </p>
 <p align = 'center'>
     <img src='https://github-readme-stats.vercel.app/api?username=kostyaaaaa&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
