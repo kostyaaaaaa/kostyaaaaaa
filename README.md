@@ -18,6 +18,6 @@
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=kostyabey&theme=gotham&hide_border=true'>
 </p>
 <p align = 'center'>
-    <img src='https://github-readme-stats.vercel.app/api?username=kostyashu&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kostyashu&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/>
+    <img src='https://github-readme-stats.vercel.app/api?username=kostyabey&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=kostyabey&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/>
 </p>
