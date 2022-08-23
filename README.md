@@ -15,7 +15,7 @@
 
 ## 🍷 GitHub Stats
 <p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=kostyashu&theme=gotham&hide_border=true'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=kostyabey&theme=gotham&hide_border=true'>
 </p>
 <p align = 'center'>
     <img src='https://github-readme-stats.vercel.app/api?username=kostyashu&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
